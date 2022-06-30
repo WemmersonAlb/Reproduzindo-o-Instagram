@@ -1,2 +1,4 @@
 # Reproduzindo-o-Instagram
-Reprodução da tela inicial do Instagram utilizando FlexBox
+Autor: Wemmerson Albuquerque
+
+Exercício para a DIO, Reproduzindo a tela inicial do Instagram com Flex-Box.
