@@ -169,3 +169,14 @@ textarea:-moz-placeholder {
     justify-items: center;
     margin-top: -30px;
 }
+
+@media (max-width: 992px){
+    .flex-container{
+        width: 90%;
+    }
+}
+@media (max-width: 720px){
+    #img-apresentacao{
+        display: none;
+    }
+}
